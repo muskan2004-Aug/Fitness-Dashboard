@@ -71,3 +71,4 @@ Integrating advanced health metrics.
 ## 📸 Dashboard Preview  
 Here’s a glance at the **Fitness Analytics Dashboard** built in Power BI:
 https://github.com/muskan2004-Aug/Fitness-Dashboard/blob/main/fitness_dashbaord.png
+
